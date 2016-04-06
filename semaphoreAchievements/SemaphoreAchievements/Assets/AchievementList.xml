@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<AchievementList>
+  
+  <Achievement name="Shoot!">
+    <id>1</id>
+    <locked>1</locked>
+    <iconTexturePath>Assets/Debug.png</iconTexturePath>
+  </Achievement>
+  
+</AchievementList>
